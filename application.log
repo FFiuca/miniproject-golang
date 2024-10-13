@@ -1,0 +1,70 @@
+{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T14:57:40+07:00"}
+{"level":"warning","msg":"Failed to create status : Bad Request","time":"2024-09-22T14:57:40+07:00"}
+{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T14:58:17+07:00"}
+{"level":"warning","msg":"Failed to create status : Bad Request","time":"2024-09-22T14:58:17+07:00"}
+{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T14:58:57+07:00"}
+{"level":"warning","msg":"Failed to create status : Bad Request","time":"2024-09-22T14:58:57+07:00"}
+{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:04:49+07:00"}
+{"level":"warning","msg":"Failed to create status : Bad Request","time":"2024-09-22T15:04:49+07:00"}
+{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:05:46+07:00"}
+{"level":"warning","msg":"Failed to create status : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:05:46+07:00"}
+{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:11:14+07:00"}
+{"level":"warning","msg":"Failed to create status : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:11:14+07:00"}
+{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:13:06+07:00"}
+{"level":"warning","msg":"Failed to create status : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:13:06+07:00"}
+{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:14:37+07:00"}
+{"level":"warning","msg":"Failed to create status : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:14:37+07:00"}
+{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:44:01+07:00"}
+{"level":"warning","msg":"Failed to create status : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:44:01+07:00"}
+{"level":"warning","msg":"Add error Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:44:15+07:00"}
+{"level":"warning","msg":"Failed to create status : Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:44:15+07:00"}
+{"level":"warning","msg":"Add error Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:45:59+07:00"}
+{"level":"warning","msg":"Failed to create status : Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:45:59+07:00"}
+{"level":"warning","msg":"Add error Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:46:59+07:00"}
+{"level":"warning","msg":"Failed to create status : Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:46:59+07:00"}
+{"level":"warning","msg":"Add error Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:50:01+07:00"}
+{"level":"warning","msg":"Failed to create status : Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:50:01+07:00"}
+{"level":"warning","msg":"Form validation error: Key: 'StatusRequestUpdate.ID' Error:Field validation for 'ID' failed on the 'required' tag","time":"2024-09-22T15:50:36+07:00"}
+{"level":"warning","msg":"Failed to update status : Key: 'StatusRequestUpdate.ID' Error:Field validation for 'ID' failed on the 'required' tag","time":"2024-09-22T15:50:36+07:00"}
+{"level":"warning","msg":"Form validation error: Key: 'StatusRequestUpdate.ID' Error:Field validation for 'ID' failed on the 'required' tag\nKey: 'StatusRequestUpdate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:51:10+07:00"}
+{"level":"warning","msg":"Failed to update status : Key: 'StatusRequestUpdate.ID' Error:Field validation for 'ID' failed on the 'required' tag\nKey: 'StatusRequestUpdate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:51:10+07:00"}
+{"level":"warning","msg":"UPdate status error: Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:53:13+07:00"}
+{"level":"warning","msg":"Failed to update status : Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:53:13+07:00"}
+{"level":"warning","msg":"UPdate status error: Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:54:54+07:00"}
+{"level":"warning","msg":"Failed to update status : Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:54:54+07:00"}
+{"level":"warning","msg":"Form validation error: Key: 'StatusRequestUpdate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:58:10+07:00"}
+{"level":"warning","msg":"Failed to update status : Key: 'StatusRequestUpdate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:58:10+07:00"}
+{"level":"warning","msg":"Form validation error: Key: 'StatusRequestUpdate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T16:01:18+07:00"}
+{"level":"warning","msg":"Failed to update status : Key: 'StatusRequestUpdate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T16:01:18+07:00"}
+{"level":"warning","msg":"Get status error record not found","time":"2024-09-23T09:19:04+07:00"}
+{"level":"warning","msg":"Failed to detail status : record not found","time":"2024-09-23T09:19:04+07:00"}
+{"level":"warning","msg":"Get status error record not found","time":"2024-09-23T09:41:51+07:00"}
+{"level":"warning","msg":"Failed to detail status : record not found","time":"2024-09-23T09:41:51+07:00"}
+{"level":"warning","msg":"Get status error record not found","time":"2024-09-23T09:42:09+07:00"}
+{"level":"warning","msg":"Failed to detail status : record not found","time":"2024-09-23T09:42:09+07:00"}
+{"level":"warning","msg":"form validation err Key: 'UserRequestCreate.Password' Error:Field validation for 'Password' failed on the 'min' tag","time":"2024-10-10T14:46:30+07:00"}
+{"level":"warning","msg":"Failed to create user : form validation error Key: 'UserRequestCreate.Password' Error:Field validation for 'Password' failed on the 'min' tag","time":"2024-10-10T14:46:30+07:00"}
+{"level":"warning","msg":"form validation err Key: 'UserRequestCreate.PasswordConfirm' Error:Field validation for 'PasswordConfirm' failed on the 'eqfield' tag","time":"2024-10-10T14:47:19+07:00"}
+{"level":"warning","msg":"Failed to create user : form validation error Key: 'UserRequestCreate.PasswordConfirm' Error:Field validation for 'PasswordConfirm' failed on the 'eqfield' tag","time":"2024-10-10T14:47:19+07:00"}
+{"level":"warning","msg":"Error create user Error 1062 (23000): Duplicate entry 'admin@gmail.com' for key 'users.users_unique'","time":"2024-10-10T14:50:58+07:00"}
+{"level":"warning","msg":"Failed to create user : Error create user Error 1062 (23000): Duplicate entry 'admin@gmail.com' for key 'users.users_unique'","time":"2024-10-10T14:50:58+07:00"}
+{"level":"warning","msg":"Error update user Error 1062 (23000): Duplicate entry 'admin3@gmail.com' for key 'users.users_unique'","time":"2024-10-10T15:15:49+07:00"}
+{"level":"warning","msg":"Failed to update user : Error update user Error 1062 (23000): Duplicate entry 'admin3@gmail.com' for key 'users.users_unique'","time":"2024-10-10T15:15:49+07:00"}
+{"level":"warning","msg":"Error update user Error 1062 (23000): Duplicate entry 'admin3@gmail.com' for key 'users.users_unique'","time":"2024-10-10T15:16:09+07:00"}
+{"level":"warning","msg":"Failed to update user : Error update user Error 1062 (23000): Duplicate entry 'admin3@gmail.com' for key 'users.users_unique'","time":"2024-10-10T15:16:09+07:00"}
+{"level":"warning","msg":"form validation err Key: 'UserRequestUpdate.PasswordConfirm' Error:Field validation for 'PasswordConfirm' failed on the 'eqfield' tag","time":"2024-10-10T15:17:14+07:00"}
+{"level":"warning","msg":"Failed to update user : form validation error Key: 'UserRequestUpdate.PasswordConfirm' Error:Field validation for 'PasswordConfirm' failed on the 'eqfield' tag","time":"2024-10-10T15:17:14+07:00"}
+{"level":"warning","msg":"form validation err Key: 'UserRequestUpdate.Password' Error:Field validation for 'Password' failed on the 'min' tag\nKey: 'UserRequestUpdate.PasswordConfirm' Error:Field validation for 'PasswordConfirm' failed on the 'eqfield' tag","time":"2024-10-10T15:17:20+07:00"}
+{"level":"warning","msg":"Failed to update user : form validation error Key: 'UserRequestUpdate.Password' Error:Field validation for 'Password' failed on the 'min' tag\nKey: 'UserRequestUpdate.PasswordConfirm' Error:Field validation for 'PasswordConfirm' failed on the 'eqfield' tag","time":"2024-10-10T15:17:20+07:00"}
+{"level":"warning","msg":"Failed to parse body Unprocessable Entity","time":"2024-10-13T11:53:43+07:00"}
+{"level":"warning","msg":"Error search user sql: expected 7 destination arguments in Scan, not 1","time":"2024-10-13T11:53:43+07:00"}
+{"level":"warning","msg":"Failed to detail user : Error search user sql: expected 7 destination arguments in Scan, not 1","time":"2024-10-13T11:53:43+07:00"}
+{"level":"warning","msg":"Failed to parse body Unprocessable Entity","time":"2024-10-13T12:18:19+07:00"}
+{"level":"warning","msg":"Error search user sql: expected 7 destination arguments in Scan, not 1","time":"2024-10-13T12:18:19+07:00"}
+{"level":"warning","msg":"Failed to detail user : Error search user sql: expected 7 destination arguments in Scan, not 1","time":"2024-10-13T12:18:19+07:00"}
+{"level":"warning","msg":"Failed to parse body Unprocessable Entity","time":"2024-10-13T12:18:50+07:00"}
+{"level":"warning","msg":"Error search user sql: expected 7 destination arguments in Scan, not 1","time":"2024-10-13T12:18:50+07:00"}
+{"level":"warning","msg":"Failed to detail user : Error search user sql: expected 7 destination arguments in Scan, not 1","time":"2024-10-13T12:18:50+07:00"}
+{"level":"warning","msg":"Failed to parse body Unprocessable Entity","time":"2024-10-13T12:24:31+07:00"}
+{"level":"warning","msg":"Error search user Error 1054 (42S22): Unknown column 'name' in 'where clause'","time":"2024-10-13T13:23:21+07:00"}
+{"level":"warning","msg":"Failed to detail user : Error search user Error 1054 (42S22): Unknown column 'name' in 'where clause'","time":"2024-10-13T13:23:21+07:00"}
