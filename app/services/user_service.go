@@ -45,8 +45,8 @@ func (svc *UserService) Detail(id *int, user *models.User) (*gorm.DB, error) {
 }
 
 // actually return []any must use generic, but next time i will. just temporary
-func (svc *UserService) Search(params *map[string]any, user *models.User) ([]models.User, error) {
-	db := svc.DB.Model(user)
+func (svc *UserService) Search(params *map[string]any, user *models.User) (*[]models.User, error) {
+	db := svc.DB.Model(user).Preload("Status")
 	users := []models.User{}
 
 	if (*params)["email"] != nil && (*params)["email"] != "" {
@@ -84,7 +84,19 @@ func (svc *UserService) Search(params *map[string]any, user *models.User) ([]mod
 
 	// return users, nil
 
-	return users, nil
+	return &users, nil
+}
+
+func (svc *UserService) SearchByEmail(email string) (*models.User, error) {
+	user := new(models.User)
+
+	err := svc.DB.Model(&user).Where("email = ?", email).First(&user).Error
+	if err != nil {
+		return nil, err
+	}
+
+	return user, nil
+
 }
 
 func NewUserService(db *gorm.DB) repositories.UserRepository {

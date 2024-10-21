@@ -22,5 +22,5 @@ type DeleteBase[I int, M any] interface {
 }
 
 type SearchBase[D map[string]any, M any, R any] interface {
-	Search(data *D, model *M) (R, error)
+	Search(data *D, model *M) (*R, error)
 }

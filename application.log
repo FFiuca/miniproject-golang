@@ -1,70 +1,63 @@
-{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T14:57:40+07:00"}
-{"level":"warning","msg":"Failed to create status : Bad Request","time":"2024-09-22T14:57:40+07:00"}
-{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T14:58:17+07:00"}
-{"level":"warning","msg":"Failed to create status : Bad Request","time":"2024-09-22T14:58:17+07:00"}
-{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T14:58:57+07:00"}
-{"level":"warning","msg":"Failed to create status : Bad Request","time":"2024-09-22T14:58:57+07:00"}
-{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:04:49+07:00"}
-{"level":"warning","msg":"Failed to create status : Bad Request","time":"2024-09-22T15:04:49+07:00"}
-{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:05:46+07:00"}
-{"level":"warning","msg":"Failed to create status : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:05:46+07:00"}
-{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:11:14+07:00"}
-{"level":"warning","msg":"Failed to create status : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:11:14+07:00"}
-{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:13:06+07:00"}
-{"level":"warning","msg":"Failed to create status : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:13:06+07:00"}
-{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:14:37+07:00"}
-{"level":"warning","msg":"Failed to create status : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:14:37+07:00"}
-{"level":"warning","msg":"Form validation error : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:44:01+07:00"}
-{"level":"warning","msg":"Failed to create status : Key: 'StatusRequestCreate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:44:01+07:00"}
-{"level":"warning","msg":"Add error Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:44:15+07:00"}
-{"level":"warning","msg":"Failed to create status : Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:44:15+07:00"}
-{"level":"warning","msg":"Add error Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:45:59+07:00"}
-{"level":"warning","msg":"Failed to create status : Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:45:59+07:00"}
-{"level":"warning","msg":"Add error Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:46:59+07:00"}
-{"level":"warning","msg":"Failed to create status : Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:46:59+07:00"}
-{"level":"warning","msg":"Add error Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:50:01+07:00"}
-{"level":"warning","msg":"Failed to create status : Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:50:01+07:00"}
-{"level":"warning","msg":"Form validation error: Key: 'StatusRequestUpdate.ID' Error:Field validation for 'ID' failed on the 'required' tag","time":"2024-09-22T15:50:36+07:00"}
-{"level":"warning","msg":"Failed to update status : Key: 'StatusRequestUpdate.ID' Error:Field validation for 'ID' failed on the 'required' tag","time":"2024-09-22T15:50:36+07:00"}
-{"level":"warning","msg":"Form validation error: Key: 'StatusRequestUpdate.ID' Error:Field validation for 'ID' failed on the 'required' tag\nKey: 'StatusRequestUpdate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:51:10+07:00"}
-{"level":"warning","msg":"Failed to update status : Key: 'StatusRequestUpdate.ID' Error:Field validation for 'ID' failed on the 'required' tag\nKey: 'StatusRequestUpdate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:51:10+07:00"}
-{"level":"warning","msg":"UPdate status error: Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:53:13+07:00"}
-{"level":"warning","msg":"Failed to update status : Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:53:13+07:00"}
-{"level":"warning","msg":"UPdate status error: Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:54:54+07:00"}
-{"level":"warning","msg":"Failed to update status : Error 1062 (23000): Duplicate entry 'update' for key 'master_statuses.status_unique'","time":"2024-09-22T15:54:54+07:00"}
-{"level":"warning","msg":"Form validation error: Key: 'StatusRequestUpdate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:58:10+07:00"}
-{"level":"warning","msg":"Failed to update status : Key: 'StatusRequestUpdate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T15:58:10+07:00"}
-{"level":"warning","msg":"Form validation error: Key: 'StatusRequestUpdate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T16:01:18+07:00"}
-{"level":"warning","msg":"Failed to update status : Key: 'StatusRequestUpdate.Name' Error:Field validation for 'Name' failed on the 'required' tag","time":"2024-09-22T16:01:18+07:00"}
-{"level":"warning","msg":"Get status error record not found","time":"2024-09-23T09:19:04+07:00"}
-{"level":"warning","msg":"Failed to detail status : record not found","time":"2024-09-23T09:19:04+07:00"}
-{"level":"warning","msg":"Get status error record not found","time":"2024-09-23T09:41:51+07:00"}
-{"level":"warning","msg":"Failed to detail status : record not found","time":"2024-09-23T09:41:51+07:00"}
-{"level":"warning","msg":"Get status error record not found","time":"2024-09-23T09:42:09+07:00"}
-{"level":"warning","msg":"Failed to detail status : record not found","time":"2024-09-23T09:42:09+07:00"}
-{"level":"warning","msg":"form validation err Key: 'UserRequestCreate.Password' Error:Field validation for 'Password' failed on the 'min' tag","time":"2024-10-10T14:46:30+07:00"}
-{"level":"warning","msg":"Failed to create user : form validation error Key: 'UserRequestCreate.Password' Error:Field validation for 'Password' failed on the 'min' tag","time":"2024-10-10T14:46:30+07:00"}
-{"level":"warning","msg":"form validation err Key: 'UserRequestCreate.PasswordConfirm' Error:Field validation for 'PasswordConfirm' failed on the 'eqfield' tag","time":"2024-10-10T14:47:19+07:00"}
-{"level":"warning","msg":"Failed to create user : form validation error Key: 'UserRequestCreate.PasswordConfirm' Error:Field validation for 'PasswordConfirm' failed on the 'eqfield' tag","time":"2024-10-10T14:47:19+07:00"}
-{"level":"warning","msg":"Error create user Error 1062 (23000): Duplicate entry 'admin@gmail.com' for key 'users.users_unique'","time":"2024-10-10T14:50:58+07:00"}
-{"level":"warning","msg":"Failed to create user : Error create user Error 1062 (23000): Duplicate entry 'admin@gmail.com' for key 'users.users_unique'","time":"2024-10-10T14:50:58+07:00"}
-{"level":"warning","msg":"Error update user Error 1062 (23000): Duplicate entry 'admin3@gmail.com' for key 'users.users_unique'","time":"2024-10-10T15:15:49+07:00"}
-{"level":"warning","msg":"Failed to update user : Error update user Error 1062 (23000): Duplicate entry 'admin3@gmail.com' for key 'users.users_unique'","time":"2024-10-10T15:15:49+07:00"}
-{"level":"warning","msg":"Error update user Error 1062 (23000): Duplicate entry 'admin3@gmail.com' for key 'users.users_unique'","time":"2024-10-10T15:16:09+07:00"}
-{"level":"warning","msg":"Failed to update user : Error update user Error 1062 (23000): Duplicate entry 'admin3@gmail.com' for key 'users.users_unique'","time":"2024-10-10T15:16:09+07:00"}
-{"level":"warning","msg":"form validation err Key: 'UserRequestUpdate.PasswordConfirm' Error:Field validation for 'PasswordConfirm' failed on the 'eqfield' tag","time":"2024-10-10T15:17:14+07:00"}
-{"level":"warning","msg":"Failed to update user : form validation error Key: 'UserRequestUpdate.PasswordConfirm' Error:Field validation for 'PasswordConfirm' failed on the 'eqfield' tag","time":"2024-10-10T15:17:14+07:00"}
-{"level":"warning","msg":"form validation err Key: 'UserRequestUpdate.Password' Error:Field validation for 'Password' failed on the 'min' tag\nKey: 'UserRequestUpdate.PasswordConfirm' Error:Field validation for 'PasswordConfirm' failed on the 'eqfield' tag","time":"2024-10-10T15:17:20+07:00"}
-{"level":"warning","msg":"Failed to update user : form validation error Key: 'UserRequestUpdate.Password' Error:Field validation for 'Password' failed on the 'min' tag\nKey: 'UserRequestUpdate.PasswordConfirm' Error:Field validation for 'PasswordConfirm' failed on the 'eqfield' tag","time":"2024-10-10T15:17:20+07:00"}
-{"level":"warning","msg":"Failed to parse body Unprocessable Entity","time":"2024-10-13T11:53:43+07:00"}
-{"level":"warning","msg":"Error search user sql: expected 7 destination arguments in Scan, not 1","time":"2024-10-13T11:53:43+07:00"}
-{"level":"warning","msg":"Failed to detail user : Error search user sql: expected 7 destination arguments in Scan, not 1","time":"2024-10-13T11:53:43+07:00"}
-{"level":"warning","msg":"Failed to parse body Unprocessable Entity","time":"2024-10-13T12:18:19+07:00"}
-{"level":"warning","msg":"Error search user sql: expected 7 destination arguments in Scan, not 1","time":"2024-10-13T12:18:19+07:00"}
-{"level":"warning","msg":"Failed to detail user : Error search user sql: expected 7 destination arguments in Scan, not 1","time":"2024-10-13T12:18:19+07:00"}
-{"level":"warning","msg":"Failed to parse body Unprocessable Entity","time":"2024-10-13T12:18:50+07:00"}
-{"level":"warning","msg":"Error search user sql: expected 7 destination arguments in Scan, not 1","time":"2024-10-13T12:18:50+07:00"}
-{"level":"warning","msg":"Failed to detail user : Error search user sql: expected 7 destination arguments in Scan, not 1","time":"2024-10-13T12:18:50+07:00"}
-{"level":"warning","msg":"Failed to parse body Unprocessable Entity","time":"2024-10-13T12:24:31+07:00"}
-{"level":"warning","msg":"Error search user Error 1054 (42S22): Unknown column 'name' in 'where clause'","time":"2024-10-13T13:23:21+07:00"}
-{"level":"warning","msg":"Failed to detail user : Error search user Error 1054 (42S22): Unknown column 'name' in 'where clause'","time":"2024-10-13T13:23:21+07:00"}
+{"level":"info","msg":"\u001b[32mD:/learning/go/project1/app/controller/router/route.go:71\n\u001b[0m\u001b[33m[2.194ms] \u001b[34;1m[rows:3]\u001b[0m SELECT * FROM `event_user_pivot` WHERE `event_user_pivot`.`event_id` IN (1,2)","time":"2024-10-15T09:22:51+07:00"}
+{"level":"info","msg":"\u001b[32mD:/learning/go/project1/app/controller/router/route.go:71\n\u001b[0m\u001b[33m[48.056ms] \u001b[34;1m[rows:2]\u001b[0m SELECT * FROM `users` WHERE `users`.`id` IN (1,2,4) AND `users`.`deleted_at` IS NULL","time":"2024-10-15T09:22:51+07:00"}
+{"level":"info","msg":"\u001b[32mD:/learning/go/project1/app/controller/router/route.go:71\n\u001b[0m\u001b[33m[51.313ms] \u001b[34;1m[rows:1]\u001b[0m SELECT * FROM `master_statuses` WHERE `master_statuses`.`id` = 1 AND `master_statuses`.`deleted_at` IS NULL","time":"2024-10-15T09:22:51+07:00"}
+{"level":"info","msg":"\u001b[32mD:/learning/go/project1/app/controller/router/route.go:71\n\u001b[0m\u001b[33m[47.620ms] \u001b[34;1m[rows:1]\u001b[0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL","time":"2024-10-15T09:22:51+07:00"}
+{"level":"info","msg":"\u001b[32mD:/learning/go/project1/app/controller/router/route.go:71\n\u001b[0m\u001b[33m[157.022ms] \u001b[34;1m[rows:2]\u001b[0m SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-15T09:22:51+07:00"}
+{"level":"info","msg":"\u001b[32mD:/learning/go/project1/app/controller/router/route.go:71\n\u001b[0m\u001b[33m[1.567ms] \u001b[34;1m[rows:3]\u001b[0m SELECT * FROM `event_user_pivot` WHERE `event_user_pivot`.`event_id` IN (1,2)","time":"2024-10-15T09:24:19+07:00"}
+{"level":"info","msg":"\u001b[32mD:/learning/go/project1/app/controller/router/route.go:71\n\u001b[0m\u001b[33m[51.130ms] \u001b[34;1m[rows:2]\u001b[0m SELECT * FROM `users` WHERE `users`.`id` IN (1,2,4) AND `users`.`deleted_at` IS NULL","time":"2024-10-15T09:24:19+07:00"}
+{"level":"info","msg":"\u001b[32mD:/learning/go/project1/app/controller/router/route.go:71\n\u001b[0m\u001b[33m[57.211ms] \u001b[34;1m[rows:1]\u001b[0m SELECT * FROM `master_statuses` WHERE `master_statuses`.`id` = 1 AND `master_statuses`.`deleted_at` IS NULL","time":"2024-10-15T09:24:19+07:00"}
+{"level":"info","msg":"\u001b[32mD:/learning/go/project1/app/controller/router/route.go:71\n\u001b[0m\u001b[33m[49.479ms] \u001b[34;1m[rows:1]\u001b[0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL","time":"2024-10-15T09:24:20+07:00"}
+{"level":"info","msg":"\u001b[32mD:/learning/go/project1/app/controller/router/route.go:71\n\u001b[0m\u001b[33m[164.097ms] \u001b[34;1m[rows:2]\u001b[0m SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-15T09:24:20+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[3.061ms] [rows:3] SELECT * FROM `event_user_pivot` WHERE `event_user_pivot`.`event_id` IN (1,2)","time":"2024-10-15T09:24:49+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[50.543ms] [rows:2] SELECT * FROM `users` WHERE `users`.`id` IN (1,2,4) AND `users`.`deleted_at` IS NULL","time":"2024-10-15T09:24:49+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[43.221ms] [rows:1] SELECT * FROM `master_statuses` WHERE `master_statuses`.`id` = 1 AND `master_statuses`.`deleted_at` IS NULL","time":"2024-10-15T09:24:49+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[50.203ms] [rows:1] SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL","time":"2024-10-15T09:24:49+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[152.833ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-15T09:24:49+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[3.143ms] [rows:3] SELECT * FROM `event_user_pivot` WHERE `event_user_pivot`.`event_id` IN (1,2)","time":"2024-10-15T09:28:49+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71 User: unsupported relations for schema User\n[49.569ms] [rows:2] SELECT * FROM `users` WHERE `users`.`id` IN (1,2,4) AND `users`.`deleted_at` IS NULL","time":"2024-10-15T09:28:49+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71 User: unsupported relations for schema User\n[57.805ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-15T09:28:49+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[3.308ms] [rows:3] SELECT * FROM `event_user_pivot` WHERE `event_user_pivot`.`event_id` IN (1,2)","time":"2024-10-15T09:31:33+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71 User: unsupported relations for schema User\n[44.963ms] [rows:2] SELECT * FROM `users` WHERE `users`.`id` IN (1,2,4) AND `users`.`deleted_at` IS NULL","time":"2024-10-15T09:31:33+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71 User: unsupported relations for schema User\n[58.356ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-15T09:31:33+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[4.649ms] [rows:3] SELECT * FROM `event_user_pivot` WHERE `event_user_pivot`.`event_id` IN (1,2)","time":"2024-10-15T09:31:51+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[48.138ms] [rows:2] SELECT * FROM `users` WHERE `users`.`id` IN (1,2,4) AND `users`.`deleted_at` IS NULL","time":"2024-10-15T09:31:51+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[52.847ms] [rows:1] SELECT * FROM `master_statuses` WHERE `master_statuses`.`id` = 1 AND `master_statuses`.`deleted_at` IS NULL","time":"2024-10-15T09:31:51+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[47.217ms] [rows:1] SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL","time":"2024-10-15T09:31:51+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[161.153ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-15T09:31:51+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:73\n[1.765ms] [rows:3] SELECT * FROM `event_user_pivot` WHERE `event_user_pivot`.`event_id` IN (1,2)","time":"2024-10-15T09:33:07+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:73 User: unsupported relations for schema User\n[45.399ms] [rows:2] SELECT * FROM `users` WHERE `users`.`id` IN (1,2,4) AND `users`.`deleted_at` IS NULL","time":"2024-10-15T09:33:07+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:73 User: unsupported relations for schema User\n[52.789ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-15T09:33:07+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/services/user_service.go:93\n[44.263ms] [rows:1] SELECT * FROM `users` WHERE email = 'admin@gmail.com' AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT 1","time":"2024-10-16T06:56:33+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:73\n[24.910ms] [rows:3] SELECT * FROM `event_user_pivot` WHERE `event_user_pivot`.`event_id` IN (1,2)","time":"2024-10-16T06:56:55+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:73 User: unsupported relations for schema User\n[56.788ms] [rows:2] SELECT * FROM `users` WHERE `users`.`id` IN (1,2,4) AND `users`.`deleted_at` IS NULL","time":"2024-10-16T06:56:55+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:73 User: unsupported relations for schema User\n[98.796ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-16T06:56:55+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:73\n[3.777ms] [rows:3] SELECT * FROM `event_user_pivot` WHERE `event_user_pivot`.`event_id` IN (1,2)","time":"2024-10-16T06:57:15+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:73 User: unsupported relations for schema User\n[44.470ms] [rows:2] SELECT * FROM `users` WHERE `users`.`id` IN (1,2,4) AND `users`.`deleted_at` IS NULL","time":"2024-10-16T06:57:15+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:73 User: unsupported relations for schema User\n[50.602ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-16T06:57:15+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[3.387ms] [rows:3] SELECT * FROM `event_user_pivot` WHERE `event_user_pivot`.`event_id` IN (1,2)","time":"2024-10-16T06:59:26+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[48.159ms] [rows:2] SELECT * FROM `users` WHERE `users`.`id` IN (1,2,4) AND `users`.`deleted_at` IS NULL","time":"2024-10-16T06:59:26+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[49.187ms] [rows:1] SELECT * FROM `master_statuses` WHERE `master_statuses`.`id` = 1 AND `master_statuses`.`deleted_at` IS NULL","time":"2024-10-16T06:59:26+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[62.626ms] [rows:1] SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL","time":"2024-10-16T06:59:26+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[171.879ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-16T06:59:26+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:76\n[2.726ms] [rows:1] SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL","time":"2024-10-16T06:59:26+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:76\n[49.142ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-16T06:59:26+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[4.156ms] [rows:3] SELECT * FROM `event_user_pivot` WHERE `event_user_pivot`.`event_id` IN (1,2)","time":"2024-10-16T07:00:13+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71 User: unsupported relations for schema User\n[47.358ms] [rows:2] SELECT * FROM `users` WHERE `users`.`id` IN (1,2,4) AND `users`.`deleted_at` IS NULL","time":"2024-10-16T07:00:13+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71 User: unsupported relations for schema User\n[59.198ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-16T07:00:13+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:76\n[3.772ms] [rows:1] SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL","time":"2024-10-16T07:00:13+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:76\n[49.503ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-16T07:00:13+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[9.536ms] [rows:3] SELECT * FROM `event_user_pivot` WHERE `event_user_pivot`.`event_id` IN (1,2)","time":"2024-10-16T08:46:43+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[48.671ms] [rows:2] SELECT * FROM `users` WHERE `users`.`id` IN (1,2,4) AND `users`.`deleted_at` IS NULL","time":"2024-10-16T08:46:43+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[49.069ms] [rows:1] SELECT * FROM `master_statuses` WHERE `master_statuses`.`id` = 1 AND `master_statuses`.`deleted_at` IS NULL","time":"2024-10-16T08:46:43+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[47.385ms] [rows:1] SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL","time":"2024-10-16T08:46:43+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[178.354ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-16T08:46:43+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:76\n[2.645ms] [rows:1] SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL","time":"2024-10-16T08:46:43+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:76\n[47.374ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-16T08:46:43+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[3.308ms] [rows:3] SELECT * FROM `event_user_pivot` WHERE `event_user_pivot`.`event_id` IN (1,2)","time":"2024-10-16T08:47:21+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[48.999ms] [rows:1] SELECT * FROM `master_statuses` WHERE `master_statuses`.`id` = 1 AND `master_statuses`.`deleted_at` IS NULL","time":"2024-10-16T08:47:21+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[95.650ms] [rows:2] SELECT * FROM `users` WHERE `users`.`id` IN (1,2,4) AND `users`.`deleted_at` IS NULL","time":"2024-10-16T08:47:21+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[49.434ms] [rows:1] SELECT * FROM `master_statuses` WHERE `master_statuses`.`id` = 1 AND `master_statuses`.`deleted_at` IS NULL","time":"2024-10-16T08:47:21+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71\n[49.934ms] [rows:1] SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL","time":"2024-10-16T08:47:21+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:71 SLOW SQL \u003e= 200ms\n[206.918ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-16T08:47:21+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:76\n[2.165ms] [rows:1] SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL","time":"2024-10-16T08:47:21+07:00"}
+{"level":"info","msg":"D:/learning/go/project1/app/controller/router/route.go:76\n[51.013ms] [rows:2] SELECT * FROM `events` WHERE `events`.`deleted_at` IS NULL","time":"2024-10-16T08:47:21+07:00"}

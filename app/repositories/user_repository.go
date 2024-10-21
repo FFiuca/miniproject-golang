@@ -11,4 +11,5 @@ type UserRepository interface {
 	base.DeleteBase[int, models.User]
 	base.DetailBase[int, models.User]
 	base.SearchBase[map[string]any, models.User, []models.User]
+	SearchByEmail(email string) (*models.User, error)
 }

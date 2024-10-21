@@ -149,7 +149,7 @@ func (c *UserUseCase) Search(ctx context.Context, data map[string]any) ([]dto.Us
 	}
 
 	var response []dto.UserResponse = make([]dto.UserResponse, 0)
-	for _, v := range result {
+	for _, v := range *result {
 		response = append(response, *dto.UserToResponse(&v))
 	}
 

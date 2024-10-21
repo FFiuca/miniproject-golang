@@ -10,6 +10,7 @@ import (
 	"gorm.io/gorm"
 
 	"project1/app/controller"
+	"project1/app/controller/middleware"
 	"project1/app/models"
 	"project1/app/services"
 	"project1/app/usecases"
@@ -29,7 +30,13 @@ func (c *RouteConfig) Setup() {
 }
 
 func (c *RouteConfig) GuestRouter() {
+	userService := services.NewUserService(c.DB)
 
+	authService := services.NewAuthService(c.DB, userService)
+	authUseCase := usecases.NewAuthUseCase(c.DB, c.Log, c.Validator, authService)
+	authController := controller.NewAuthController(c.Log, authUseCase)
+
+	c.App.Post("/api/login", authController.Login)
 }
 
 func (c *RouteConfig) AuthRouter() {
@@ -51,6 +58,27 @@ func (c *RouteConfig) AuthRouter() {
 	c.App.Get("/api/user/:id", userController.Detail)
 	c.App.Delete("/api/user/:id", userController.Delete)
 	c.App.Get("/api/user", userController.Search)
+
+	c.App.Use(middleware.AuthMiddleware())
+	c.App.Get("/api/auth", func(ctx *fiber.Ctx) error {
+		fmt.Println(ctx.Locals("metaUser"))
+		return ctx.SendStatus(fiber.StatusOK)
+	})
+
+	c.App.Get("/api/coba_db", func(ctx *fiber.Ctx) error {
+		a := []models.Event{}
+
+		c.DB.Model(&a).Preload("Status").Preload("User").Preload("EventUser.Status").Find(&a)
+
+		fmt.Println(a[0].EventUser)
+
+		b := []models.Event{}
+		c.DB.Preload("User").Find(&b)
+
+		fmt.Println(b)
+
+		return ctx.JSON(a)
+	})
 
 }
 

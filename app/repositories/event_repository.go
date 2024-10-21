@@ -10,5 +10,5 @@ type EventRepository interface {
 	base.UpdateBase[int, models.Event]
 	base.DeleteBase[int, models.Event]
 	base.DetailBase[int, models.Event]
-	// base.SearchBase[map[string]any, models.Event]
+	base.SearchBase[map[string]any, models.Event, []models.Event]
 }
